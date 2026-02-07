@@ -1,4 +1,4 @@
 Notes created directly on GitHub main
 MAIN-LINE: local main change
 MAIN-LINE: change from GitHub UI
-CONFLICT-LINE: ORIGINAL
+CONFLICT-LINE: REMOTE
