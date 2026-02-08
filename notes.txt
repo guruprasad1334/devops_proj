@@ -7,3 +7,4 @@ CONFLICT-LINE: LOCAL + REMOTE
 
 RELEASE-LINE: from main
 MERGE-BRANCH: change
+MAIN: teammate update for merge-vs-rebase
