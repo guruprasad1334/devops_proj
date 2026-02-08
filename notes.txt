@@ -5,3 +5,6 @@ CONFLICT-LINE: LOCAL + REMOTE
 
 
 
+squash-cli-1
+squash-cli-2
+squash-cli-3
