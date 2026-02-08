@@ -3,5 +3,9 @@ MAIN-LINE: local main change
 MAIN-LINE: change from GitHub UI
 CONFLICT-LINE: LOCAL + REMOTE
 
-
-
+===========================
+RELEASE-LINE: from main
+squash-cli-1
+squash-cli-2
+squash-cli-3
+RELEASE-LINE: from feature
